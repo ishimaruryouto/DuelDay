@@ -1,0 +1,29 @@
+html {
+    font-size: 62.5%;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    color: #fff;
+    background: linear-gradient(#000F1E 0%, #002345 100%) no-repeat;
+}
+
+h1 {
+    font-size: 3.2rem;
+    padding-top: 110px;
+    margin-left: 40px;
+}
+
+// フォントサイズ
+$ttl-font-size: 3.2rem;
+$bttn-font-size: 2.4rem;

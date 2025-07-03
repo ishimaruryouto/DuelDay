@@ -24,6 +24,12 @@ h1 {
   margin-left: 40px;
 }
 
+h1 {
+  font-size: 3.2rem;
+  padding-top: 110px;
+  margin-left: 40px;
+}
+
 .login_wrap {
   text-align: center;
   margin: 0 auto;
@@ -53,12 +59,10 @@ h1 {
 button {
   width: 250px;
   height: 50px;
+  font-size: 1.4rem;
   background: #BA2B1D;
   border-radius: 10px;
   margin-top: 60px;
 }
-button a {
-  font-size: 1.4rem;
-}
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=main.css.map */

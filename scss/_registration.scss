@@ -1,23 +1,3 @@
-html {
-    font-size: 62.5%;
-}
-
-li {
-    list-style: none;
-}
-
-a {
-    text-decoration: none;
-    color: #fff;
-}
-
-body {
-    width: 100vw;
-    height: 100vh;
-    color: #fff;
-    background: linear-gradient(#000F1E 0%, #002345 100%) no-repeat;
-}
-
 h1 {
     font-size: 3.2rem;
     padding-top: 110px;
@@ -63,11 +43,8 @@ h1 {
 button {
     width: 250px;
     height: 50px;
+    font-size: 1.4rem;
     background: #BA2B1D;
     border-radius: 10px;
     margin-top: 60px;
-
-    a {
-        font-size: 1.4rem;
-    }
 }
